@@ -23,7 +23,9 @@ https://bitespeed-assessment.vercel.app/
     <td>
       <img src="https://github.com/saicherry93479/Bitespeed_Assessment/blob/main/src/assets/Images/image.png" alt="App Screenshot" width="100%" height="300px"/>
     </td>
-  
+  <td>
+      <img src="https://github.com/saicherry93479/Bitespeed_Assessment/blob/main/src/assets/Images/image2.png" alt="App Screenshot" width="100%" height="300px"/>
+    </td>
   </tr>
   <tr>
     <td>
